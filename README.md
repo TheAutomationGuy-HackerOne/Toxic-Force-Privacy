@@ -1,5 +1,5 @@
-# CalcPad Pro privacy policy
+# Toxic Force privacy policy
 
-Public privacy policy for the CalcPad Pro iOS app (Toxic Force Magic Calculator).
+Public privacy policy for the Toxic Force iOS app.
 
-Live page: https://theautomationguy-hackerone.github.io/Toxic-Force-Calculator-Privacy/
+Live page: https://theautomationguy-hackerone.github.io/Toxic-Force-Privacy/
